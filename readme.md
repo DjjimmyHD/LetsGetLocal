@@ -1,12 +1,12 @@
 # Twilio Quest 'Let's Get Local'
 
-Using Twilio Quest to learn more about the services Twilio provides. This repo is specifically for the `Let's Get Local` mission. Will update readme as app is developed.
+Using Twilio Quest to learn more about the services Twilio provides. This repo is specifically for the 'Let's Get Local' mission. Will update readme as app is developed.
 
 ## Prerequisites
 
 I built this app following [this](https://www.twilio.com/quest/mission/1/objective/99#) guide. If you haven't signed up for Twilio Quest you can do it [here](https://www.twilio.com/quest/welcome). It will prompt you to create a Twilio account. You can sign up for a trial Twillio account [here](https://www.twilio.com/try-twilio). Full disclosure I completed the ['Getting Started'](https://www.twilio.com/quest/mission/13) mission before I set out on this adventure. I won't spoil the surprise but Twilio gives you a nice reward for completing that has real value.
 
-* Some familiarity with the following technologies:
+* You will need some familiarity with the following technologies:
 
   * [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
 
@@ -16,7 +16,7 @@ I built this app following [this](https://www.twilio.com/quest/mission/1/objecti
 
   * [dotenv](https://www.npmjs.com/package/dotenv)
 
-* Some familiarity with the following concepts:
+* You will need some familiarity with the following concepts:
 
   * [http](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 
